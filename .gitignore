@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.lref
+*.pdb
+P4G Save Tool/P4G Save Tool/obj/Release/P4G Save Tool.g.resources
+*.exe
+P4G Save Tool/P4G Save Tool/obj/Release/P4G Save Tool.csproj.FileListAbsolute.txt
+*.baml
+*.exe
+P4G Save Tool/P4G Save Tool/obj/Release/About.g.cs
+P4G Save Tool/P4G Save Tool/obj/Release/P4G Save Tool.exe
+P4G Save Tool/P4G Save Tool/obj/Release/P4G Save Tool.g.resources
+P4G Save Tool/P4G Save Tool/obj/Release/P4G Save Tool_MarkupCompile.lref
